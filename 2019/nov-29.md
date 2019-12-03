@@ -15,3 +15,8 @@ We collected all the ideas, feedback and expectations of the attendees and we ai
 ## Next Steps
 
 Sort the feedback and publish it into GitHub Account to be accessible and not being lost.
+
+# Future Meetups ideas
+
+* From legacy to Reactive
+* Reactive TDD, how to deal with testing with reactive components
